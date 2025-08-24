@@ -12,7 +12,7 @@
 
 ### 🚀 Languages & Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### 🌐 Web & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,14 +40,8 @@
 - **Tech**: React, Node.js, Express, MongoDB, TailwindCSS  
 - 🔗 [View Repository](https://github.com/yourusername/ecommerce-project)
 
-### 🎨 Portfolio Website
-- Personal portfolio showcasing skills, projects, and contact info.  
-- **Tech**: React, TailwindCSS  
-- 🔗 [View Repository](https://github.com/yourusername/portfolio)
-
 ---
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hk9484678@gmail.com)
