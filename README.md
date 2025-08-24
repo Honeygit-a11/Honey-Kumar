@@ -12,7 +12,7 @@
 
 ### 🚀 Languages & Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🌐 Web & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,13 +28,22 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=honeykumar&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=honeykumar&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeykumar&layout=compact&theme=radical)
 
 ---
 
-## 🏆 Achievements:
-[![trophy](https://github-profile-trophy.vercel.app/?username=honeykumar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 Featured Projects:
+
+### 🛍️ E-Commerce Website
+- Full MERN stack project with authentication, cart, checkout, and admin dashboard.  
+- **Tech**: React, Node.js, Express, MongoDB, TailwindCSS  
+- 🔗 [View Repository](https://github.com/yourusername/ecommerce-project)
+
+### 🎨 Portfolio Website
+- Personal portfolio showcasing skills, projects, and contact info.  
+- **Tech**: React, TailwindCSS  
+- 🔗 [View Repository](https://github.com/yourusername/portfolio)
 
 ---
 
