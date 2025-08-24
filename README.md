@@ -37,7 +37,7 @@
 ### 🛍️ E-Commerce Website
 - Full MERN stack project with authentication, cart, checkout, and admin dashboard.  
 - **Tech**: React, Node.js, Express, MongoDB, TailwindCSS  
-- 🔗 [View Repository](https://github.com/yourusername/ecommerce-project)
+- 🔗 [View Repository](https://github.com/Honeygit-a11/OutfitHub.git)
 
 ---
 
